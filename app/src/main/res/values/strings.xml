@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">project_penir</string>
+    <string-array name="arraylevel">
+        <item>easy</item>
+        <item>normal</item>
+        <item>hard</item>
+    </string-array>
+</resources>
